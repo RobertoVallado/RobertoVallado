@@ -14,7 +14,10 @@ Teaching is my other calling profession. It's my way of sharing my passion for l
 
 When I'm not coding or teaching, I spend my free time exploring the complex world of cybersecurity as a part-time bug bounty hunter. I am deeply curious about how systems work and enjoy discovering security vulnerabilities. Collaborating with organizations to enhance their digital defenses is a rewarding experience that motivates me to continue my work.
 
-I am on a mission to inspire and encourage people to believe in the power of learning. I strongly believe that through continuous learning, we can make progress and achieve our goals. I am passionate about pushing boundaries, asking questions, and facing challenges head-on. Whether you share my enthusiasm for lifelong learning or simply want to connect and learn together, please feel free to reach out to me.
+> I am on a mission to inspire and encourage people to believe in the power of learning. I strongly believe that
+> through continuous learning, we can make progress and achieve our goals. I am passionate about pushing
+> boundaries, asking questions, and facing challenges head-on. Whether you share my enthusiasm for lifelong
+> learning or simply want to connect and learn together, please feel free to reach out to me.
 
 
 Feel free to connect with me via email at [cybersecurity@robertovallado.dev] or find me on [LinkedIn](https://www.linkedin.com/in/roberto-vallado).
