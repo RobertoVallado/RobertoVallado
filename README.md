@@ -20,7 +20,7 @@ When I'm not coding or teaching, I spend my free time exploring the complex worl
 > learning or simply want to connect and learn together, please feel free to reach out to me.
 
 
-Feel free to connect with me via email at [cybersecurity@robertovallado.dev] or find me on [LinkedIn](https://www.linkedin.com/in/roberto-vallado).
+Feel free to check out my website at [robertovallado.dev] or find me on [LinkedIn](https://www.linkedin.com/in/roberto-vallado).
 
 <!--
 **RobertoVallado/RobertoVallado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
