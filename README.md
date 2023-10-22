@@ -17,10 +17,10 @@ When I'm not coding or teaching, I spend my free time exploring the complex worl
 > I am on a mission to inspire and encourage people to believe in the power of learning. I strongly believe that
 > through continuous learning, we can make progress and achieve our goals. I am passionate about pushing
 > boundaries, asking questions, and facing challenges head-on. Whether you share my enthusiasm for lifelong
-> learning or simply want to connect and learn together, please feel free to reach out to me.
+> learning or simply want to connect and learn together, please feel free to reach out.
 
 
-Feel free to check out my website at [robertovallado.dev](https://www.robertovallado.dev/). or find me on [LinkedIn](https://www.linkedin.com/in/roberto-vallado).
+Check out my website at [robertovallado.dev](https://www.robertovallado.dev/). or find me on [LinkedIn](https://www.linkedin.com/in/roberto-vallado).
 
 <!--
 **RobertoVallado/RobertoVallado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
